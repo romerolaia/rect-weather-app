@@ -30,11 +30,10 @@ padding: 0;
     list-style: none;
 }
 
-.Weather img{
+.Weather canvas{
 height: 64px;
 width: 64px;
-display: inline-block;
-margin-right: 10px;
+
 }
 
 .Weather .temperature{
