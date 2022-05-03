@@ -7,7 +7,7 @@ export default function App() {
     <div className="App">
     <div className="container">
 
-    <Weather />
+    <Weather defaultCity="Barcelona"/>
     <footer>
 This project was coded by Laia Romero and is {" "}
     <a href="https://github.com/romerolaia/rect-weather-app" target="_blank">open-sourced on GitHub</a>
