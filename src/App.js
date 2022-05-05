@@ -10,7 +10,7 @@ export default function App() {
     <Weather defaultCity="Barcelona"/>
     <footer>
 This project was coded by Laia Romero and is {" "}
-    <a href="https://github.com/romerolaia/rect-weather-app" target="_blank" rel="noreferrer">open-sourced on GitHub</a>
+    <a href="https://github.com/romerolaia/rect-weather-app" target="_blank" rel="noreferrer">open-sourced on GitHub</a> {" "}
     </footer>
     </div>
     </div>
