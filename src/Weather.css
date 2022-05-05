@@ -30,12 +30,6 @@ padding: 0;
     list-style: none;
 }
 
-.Weather canvas{
-height: 64px;
-width: 64px;
-
-}
-
 .Weather .temperature{
     font-weight: bold;
     color: #212121;
